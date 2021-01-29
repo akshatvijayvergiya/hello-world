@@ -1,0 +1,13 @@
+.cardContainer {
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.container__cards{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+}
